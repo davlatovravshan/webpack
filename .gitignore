@@ -1,0 +1,13 @@
+/node_modules
+/build
+
+# Ignore the .git directory
+.git
+
+# Ignore the IDEA's directory
+.idea
+.vscode
+.DS_Store
+
+# Ignore the .env file
+.env
